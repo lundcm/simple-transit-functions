@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="730" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/sources_sync/sources_sync.go" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="257" />
+          <option name="fileUrl" value="file://$APPLICATION_CONFIG_DIR$/consoles/db/3e81ef94-14f2-4d7a-b41f-4a893896fbc2/console.sql" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="2291" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/types.go" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="40" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/cmd/main.go" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="2079" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/gtfs_download/gtfs_download.go" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>
